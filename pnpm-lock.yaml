@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  lazysizes: ^5.3.2
+
+dependencies:
+  lazysizes: 5.3.2
+
+packages:
+
+  /lazysizes/5.3.2:
+    resolution: {integrity: sha512-22UzWP+Vedi/sMeOr8O7FWimRVtiNJV2HCa+V8+peZOw6QbswN9k58VUhd7i6iK5bw5QkYrF01LJbeJe0PV8jg==}
+    dev: false
